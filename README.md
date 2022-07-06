@@ -1,4 +1,5 @@
-# Hello World!
-Journaliste, j'utilise GitHub pour déposer les bouts de code que j'écris pour certains de mes articles. Si vous êtes à la recherche de mon portfolio, c'est par [ici](https://deroudilhep.github.io/) ! 
+# Hi!
 
-As a journalist, I'm using GitHub to store some of the code I use to write stories. If you're looking for my professional website, please follow this [link](https://deroudilhep.github.io/) (only in French).
+Je suis journaliste et j'utilise GitHub pour héberger [mon site internet](https://deroudilhep.github.io), déposer du code que j'utilise pour écrire mes articles, etc. 
+
+As a journalist, I use GitHub to host my [personal website](https://deroudilhep.github.io), store code I use to write stories, etc. 
