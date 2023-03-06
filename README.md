@@ -1,5 +1,5 @@
-# deroudilhep/README
+# README
 
-Je suis journaliste et j'utilise GitHub pour héberger [mon site internet](https://deroudilhep.github.io), déposer du code que j'utilise pour écrire mes articles, etc.
+Salut ! Journaliste et développeur pour les cinq pôles de l'agence de presse AEF info, j'utilise GitHub pour partager le code que j'écris pour mes articles, les outils que je créé pour ma rédaction et héberger [mon site internet personnel](https://deroudilhep.github.io).
 
-As a journalist, I use GitHub to host my [personal website](https://deroudilhep.github.io), store code I use to write stories, etc.
+Hi! Journalist and dev at French news agency AEF info, I'm on GitHub to share the code I use to write stories, the tools I create for my newsroom, and to host [my personal website](https://deroudilhep.github.io).
